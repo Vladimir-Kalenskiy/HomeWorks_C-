@@ -21,7 +21,8 @@ else
 
 // Задача 2.
 
-/*Console.Write("Input a pasitive integer number: ");
+/*
+Console.Write("Input a pasitive integer number: ");
 int number = Convert.ToInt32(Console.ReadLine());
 
 int current = - number;

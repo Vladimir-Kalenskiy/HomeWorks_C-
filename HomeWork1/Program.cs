@@ -62,10 +62,39 @@ else
 
 //Задача 6: Напишите программу, которая на вход принимает число и выдаёт, является ли число чётным (делится ли оно на два без остатка).
 
+/*
 Console.Write("Input number: ");
 int num = Convert.ToInt32(Console.ReadLine());
 
-int temp = num % 2;
+if((num % 2) == 1)
+{
+    Console.WriteLine($"This number {num} is not even.");
+}
+else
+{
+    Console.WriteLine($"This number {num} is even.");
+}
+*/
 
+// Задача 8: Напишите программу, которая на вход принимает число (N), а на выходе показывает все чётные числа от 1 до N.
 
+/*
+Console.Write("Input number: ");
+int N = Convert.ToInt32(Console.ReadLine());
 
+int step = 1;
+int current = 2;
+
+while(current <= N)
+{
+    if( current % 2 == 0)
+    {
+        Console.Write(current + " ");
+        current = current + step;
+    }
+    else
+    {
+        current = current + step;
+    }
+}
+*/
