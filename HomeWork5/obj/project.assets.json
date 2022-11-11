@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Владимир\\Desktop\\Программист  Java\\1 Четверть\\Знакомство с языком программирования С#\\HomeWorks_C-\\Seminar1\\Seminar1.csproj",
-      "projectName": "Seminar1",
-      "projectPath": "C:\\Users\\Владимир\\Desktop\\Программист  Java\\1 Четверть\\Знакомство с языком программирования С#\\HomeWorks_C-\\Seminar1\\Seminar1.csproj",
+      "projectUniqueName": "C:\\Users\\Владимир\\Desktop\\Программист  Java\\1 Четверть\\Знакомство с языком программирования С#\\HomeWorks_C-\\HomeWork5\\HomeWork5.csproj",
+      "projectName": "HomeWork5",
+      "projectPath": "C:\\Users\\Владимир\\Desktop\\Программист  Java\\1 Четверть\\Знакомство с языком программирования С#\\HomeWorks_C-\\HomeWork5\\HomeWork5.csproj",
       "packagesPath": "C:\\Users\\Владимир\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Владимир\\Desktop\\Программист  Java\\1 Четверть\\Знакомство с языком программирования С#\\HomeWorks_C-\\Seminar1\\obj\\",
+      "outputPath": "C:\\Users\\Владимир\\Desktop\\Программист  Java\\1 Четверть\\Знакомство с языком программирования С#\\HomeWorks_C-\\HomeWork5\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Владимир\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.403\\RuntimeIdentifierGraph.json"
       }
     }
   }
