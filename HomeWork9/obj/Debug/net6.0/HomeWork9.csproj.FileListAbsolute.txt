@@ -1,0 +1,15 @@
+C:\Users\Владимир\Desktop\Программист  Java\1 Четверть\Знакомство с языком программирования С#\HomeWorks_C-\HomeWork9\bin\Debug\net6.0\HomeWork9.exe
+C:\Users\Владимир\Desktop\Программист  Java\1 Четверть\Знакомство с языком программирования С#\HomeWorks_C-\HomeWork9\bin\Debug\net6.0\HomeWork9.deps.json
+C:\Users\Владимир\Desktop\Программист  Java\1 Четверть\Знакомство с языком программирования С#\HomeWorks_C-\HomeWork9\bin\Debug\net6.0\HomeWork9.runtimeconfig.json
+C:\Users\Владимир\Desktop\Программист  Java\1 Четверть\Знакомство с языком программирования С#\HomeWorks_C-\HomeWork9\bin\Debug\net6.0\HomeWork9.dll
+C:\Users\Владимир\Desktop\Программист  Java\1 Четверть\Знакомство с языком программирования С#\HomeWorks_C-\HomeWork9\bin\Debug\net6.0\HomeWork9.pdb
+C:\Users\Владимир\Desktop\Программист  Java\1 Четверть\Знакомство с языком программирования С#\HomeWorks_C-\HomeWork9\obj\Debug\net6.0\HomeWork9.csproj.AssemblyReference.cache
+C:\Users\Владимир\Desktop\Программист  Java\1 Четверть\Знакомство с языком программирования С#\HomeWorks_C-\HomeWork9\obj\Debug\net6.0\HomeWork9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Владимир\Desktop\Программист  Java\1 Четверть\Знакомство с языком программирования С#\HomeWorks_C-\HomeWork9\obj\Debug\net6.0\HomeWork9.AssemblyInfoInputs.cache
+C:\Users\Владимир\Desktop\Программист  Java\1 Четверть\Знакомство с языком программирования С#\HomeWorks_C-\HomeWork9\obj\Debug\net6.0\HomeWork9.AssemblyInfo.cs
+C:\Users\Владимир\Desktop\Программист  Java\1 Четверть\Знакомство с языком программирования С#\HomeWorks_C-\HomeWork9\obj\Debug\net6.0\HomeWork9.csproj.CoreCompileInputs.cache
+C:\Users\Владимир\Desktop\Программист  Java\1 Четверть\Знакомство с языком программирования С#\HomeWorks_C-\HomeWork9\obj\Debug\net6.0\HomeWork9.dll
+C:\Users\Владимир\Desktop\Программист  Java\1 Четверть\Знакомство с языком программирования С#\HomeWorks_C-\HomeWork9\obj\Debug\net6.0\refint\HomeWork9.dll
+C:\Users\Владимир\Desktop\Программист  Java\1 Четверть\Знакомство с языком программирования С#\HomeWorks_C-\HomeWork9\obj\Debug\net6.0\HomeWork9.pdb
+C:\Users\Владимир\Desktop\Программист  Java\1 Четверть\Знакомство с языком программирования С#\HomeWorks_C-\HomeWork9\obj\Debug\net6.0\HomeWork9.genruntimeconfig.cache
+C:\Users\Владимир\Desktop\Программист  Java\1 Четверть\Знакомство с языком программирования С#\HomeWorks_C-\HomeWork9\obj\Debug\net6.0\ref\HomeWork9.dll
